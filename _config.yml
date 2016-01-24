@@ -2,7 +2,7 @@
 # This file contains configuration flags to customize your site
 #
 
-#cleanup in the logfile, plus update to name and description
+#
 
 # Name of your site (displayed in the header)
 name: CS373 Spring 2016: Arman Baratifar
