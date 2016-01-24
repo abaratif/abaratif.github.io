@@ -5,10 +5,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: CS373 Spring 2016: Arman Baratifar
+name: "CS373 Spring 2016: Arman Baratifar"
 
 # Short bio or description (displayed in the header)
-description: Arman's Software Engineering Course Blog
+description: "Arman's Software Engineering Course Blog"
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
